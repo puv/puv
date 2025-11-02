@@ -2,7 +2,7 @@
 <a target="_blank" href="https://github.com/puv">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/puv?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 </a>
-
+<br>
 <a target="_blank" href="https://github.com/puv/liveSubs">
 <img alt="stats" title="puv's Pinned Project" src="https://github-readme-stats.vercel.app/api/pin/?username=puv&repo=liveSubs"/>
 </a>
