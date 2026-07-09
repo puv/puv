@@ -1,22 +1,17 @@
-<p align="center">
-<a target="_blank" href="https://github.com/puv">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/puv?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-</a>
+<div align="center">
+<img src="https://github.com/puv/puv/blob/main/banner.gif?raw=true" width="25%" align="right" />
+  <br><br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=500&size=50&duration=4000&pause=300&color=2EF7A1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1800&height=140&lines=%F0%9D%90%BB%F0%9D%91%92%F0%9D%93%81%F0%9D%93%81%F0%9D%91%9C+%F0%9D%92%B2%F0%9D%91%9C%F0%9D%93%87%F0%9D%93%81%F0%9D%92%B9;%F0%9D%99%84'%F0%9D%99%A2+%F0%9D%99%A5%F0%9D%99%AA%F0%9D%99%AB%2C+%F0%9D%99%96+%F0%9D%99%97%F0%9D%99%9E%F0%9D%99%9C+%F0%9D%99%99%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%96+%F0%9D%99%9D%F0%9D%99%A4%F0%9D%99%96%F0%9D%99%A7%F0%9D%99%99%F0%9D%99%9A%F0%9D%99%A7+%F0%9D%99%AC%F0%9D%99%9D%F0%9D%99%A4+%F0%9D%99%98%F0%9D%99%A4%F0%9D%99%AA%F0%9D%99%A3%F0%9D%99%A9%F0%9D%99%A8+%F0%9D%99%A2%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%9A%F0%9D%99%AE+%F0%9D%99%AC%F0%9D%99%9E%F0%9D%99%A9%F0%9D%99%9D+%F0%9D%99%9C%F0%9D%99%9E%F0%9D%99%9C%F0%9D%99%96%F0%9D%99%97%F0%9D%99%AE%F0%9D%99%A9%F0%9D%99%9A%F0%9D%99%A8" width="70%" />
+<br><br>
+<pre>
+    🎓 BSc Informatics • MSc Cyber Security (in progress)
+    💼 Junior Testing Engineer 
+    💘 Designing new things
+    🎨 Piano • Gaming • Music Festivals
+    ⚡ Latest • [share.me](https://github.com/puv/share.me) 
+</pre>
 <br>
-<a target="_blank" href="https://github.com/puv/liveSubs">
-<img alt="stats" title="puv's Pinned Project" src="https://github-readme-stats.vercel.app/api/pin/?username=puv&repo=liveSubs"/>
-</a>
-
-<details>
-<summary>Technologies I've Used</summary>
-
-### 🚀 Frameworks
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src= "https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-
-### 👩‍💻 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</details>
-</p>
+    
+[![](https://img.shields.io/badge/X-000000)](https://x.com/puvdev)
+[![](https://img.shields.io/badge/@puvdev-3db1ff)](https://x.com/puvdev)
+</div>
