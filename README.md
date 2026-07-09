@@ -8,7 +8,7 @@
     💼 Junior Testing Engineer 
     💘 Designing new things
     🎨 Piano • Gaming • Music Festivals
-    ⚡ Latest • [share.me](https://github.com/puv/share.me) 
+    ⚡ Latest • <a href="https://github.com/puv/share.me">share.me</a>
 </pre>
 <br>
     
